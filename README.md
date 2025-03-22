@@ -1,13 +1,11 @@
 ---
 title: "Fine-tuned Microsoft Phi-1.5 for Summarization"
 author: "Sachin Kafle"
-date: "`r Sys.Date()`"
+date: "3/23/2025"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # Overview
 This document provides details on the fine-tuned **Microsoft Phi-1.5** model for summarization using **Salesforce's DialogStudio** dataset.
